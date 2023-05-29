@@ -1,1 +1,1 @@
-THIS FOR THE RSA CHALLENGE 
+For this project, we will write programs that factorizes numbers given to it.
